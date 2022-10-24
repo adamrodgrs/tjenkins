@@ -103,7 +103,7 @@ h6, .h6 {
 }
 
 .btn-main {
-  background: #366735;
+  background: #008db8;
   color: #fff;
 }
 .btn-main:hover {
@@ -116,7 +116,7 @@ h6, .h6 {
   color: #fff;
 }
 .btn-black:hover {
-  background: #366735;
+  background: #008db8;
   color: #fff;
 }
 
@@ -131,17 +131,17 @@ h6, .h6 {
 }
 
 a {
-  color: #000;
+  color: rgb(156, 156, 156);
   transition: all 0.25s ease;
 }
 a:hover {
-  color: #366735;
+  color: #008db8;
   text-decoration: none;
   outline: none;
 }
 
 .bg-primary {
-  background: #366735 !important;
+  background: #008db8 !important;
 }
 
 .bg-secondary {
@@ -153,7 +153,7 @@ a:hover {
 }
 
 .text-color {
-  color: #366735;
+  color: #008db8;
 }
 
 .page-title h1 {
@@ -168,7 +168,7 @@ a:hover {
   width: 40px;
   height: 2px;
   margin-left: -25px;
-  background: #366735;
+  background: #008db8;
 }
 
 @media (max-width: 575px) {
@@ -233,7 +233,7 @@ ul.dropdown-menu > li > a, .navbar ul ul ul.dropdown-menu li .nav-link {
   text-transform: uppercase;
 }
 ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hover {
-  color: #366735;
+  color: #008db8;
 }
 
 .dropdown-item:focus, .dropdown-item:hover {
@@ -358,14 +358,14 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
   font-weight: 700;
 }
 .portfolio .btn-group .btn:hover {
-  color: #366735;
+  color: #008db8;
 }
 .portfolio .btn-group:not(:first-child) > .btn, .portfolio .btn-group > .btn:not(:first-child) {
   border-top-left-radius: 0px;
   border-bottom-left-radius: 0px;
 }
 .portfolio .btn.active {
-  color: #366735;
+  color: #008db8;
 }
 
 .inner-box {
@@ -589,7 +589,7 @@ ul.dropdown-menu > li > a:hover, .navbar ul ul ul.dropdown-menu li .nav-link:hov
 }
 .form-control:focus {
   box-shadow: none;
-  border-color: #366735;
+  border-color: #008db8;
 }
 
 textarea.form-control {
@@ -612,7 +612,7 @@ textarea.form-control {
   width: 40px;
   height: 2px;
   margin-left: -25px;
-  background: #366735;
+  background: #008db8;
 }
 
 .letter-spacing {
@@ -638,7 +638,7 @@ textarea.form-control {
   transition: all 0.35s ease;
 }
 .post .post-content a:hover h4 {
-  color: #366735;
+  color: #008db8;
 }
 
 .pagination {
@@ -654,11 +654,11 @@ textarea.form-control {
   transition: 0.3s;
 }
 .pagination li a:hover {
-  background: #366735;
+  background: #008db8;
   color: #fff;
 }
 .pagination li.active a {
-  background: #366735;
+  background: #008db8;
   color: #fff;
 }
 
@@ -747,7 +747,7 @@ textarea.form-control {
 }
 .footer {
   padding: 60px 0px;
-  background: #366735;
+  background: #008db8;
 }
 
 .footer-widget a {
