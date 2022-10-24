@@ -484,6 +484,7 @@ ul.dropdown-menu > li > a:hover,
   margin-bottom: 0px;
   transform: translateX(-150px);
   transition: all 0.3s;
+  color: #000;
 }
 .overlay-content p {
   font-size: 14px;
