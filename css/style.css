@@ -28,8 +28,7 @@ body {
   line-height: 1.7em;
   color: #818385;
   background-color: #223c51;
-  background-image: url("images/asfalt-light.png");
-
+  background-image: url(images/asfalt-light.png);
 }
 
 p {
